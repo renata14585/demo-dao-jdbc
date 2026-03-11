@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>jdbc5</name>
+=======
+	<name>demo-dao-jdbc</name>
+>>>>>>> bc12c211ccd99aeba585c221a2254eda817e2166
 	<comment></comment>
 	<projects>
 	</projects>
